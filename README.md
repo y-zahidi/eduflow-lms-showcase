@@ -42,9 +42,6 @@ EduFlow.Tests
 
 | Path | Purpose |
 |---|---|
-| `docs/Eduflow_Rapport.pdf` | Final academic report |
-| `docs/UML.pdf` | UML/design snapshot |
-| `docs/CDC_EduFlow.pdf` | Project requirements snapshot |
 | `screenshots/aspnet-identity-mindmap.png` | ASP.NET MVC + Identity study map |
 | `code-snippets/eduflow-service-pattern.cs` | Short illustrative service pattern |
 
